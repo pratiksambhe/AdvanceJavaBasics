@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Cat Bean -->
+    <bean id="Petrol" class="org.example.xmlbased.components.PetrolEngine" />
+
+    <!-- Dog Bean -->
+    <bean id="Electric" class="org.example.xmlbased.components.Electric" />
+
+    <!-- Pet Bean with Animal dependency injected -->
+    <bean id="Vehical" class="org.example.xmlbased.components.Vehical">
+        <property name="Engine" ref="Electric" /> <!-- You can change to 'dog' -->
+    </bean>
+
+</beans>
