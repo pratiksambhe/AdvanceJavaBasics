@@ -17,4 +17,7 @@ Things covered
 15.jackson package
 16.ModelMapper :add dependency and in service you can view its implementation
 17.DateTimeFormatter in PersonController
-18. File Handeling :nio & io in file package
+18.File Handeling :nio & io in file package
+19.OCR: add ocr dependency and download tessract extentation, for pdf file add pdf dependency.
+        webp: add two dependencies core&imageIo
+        pdf/Excel: create and read
