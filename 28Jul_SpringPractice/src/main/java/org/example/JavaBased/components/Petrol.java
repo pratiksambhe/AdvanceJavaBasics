@@ -1,4 +1,9 @@
 package org.example.JavaBased.components;
 
-public class Petrol {
+import org.example.JavaBased.repo.Engine;
+
+public class Petrol implements Engine {
+    public void info(){
+        System.out.println("Petrol");
+    }
 }

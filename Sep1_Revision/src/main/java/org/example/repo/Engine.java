@@ -1,4 +1,5 @@
 package org.example.repo;
 
-public class Engine {
+public interface Engine {
+    public void engineType();
 }

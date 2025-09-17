@@ -1,0 +1,26 @@
+server:
+  port: 8090
+
+spring:
+  mail:
+    username: pratiksambhe.eidiko@gmail.com
+    password: qtfaqqivvkvkffjt
+    host: smtp.gmail.com
+    port: 587
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+  receive:
+    imap:
+      host: imap.gmail.com
+      port: 993
+      user: pratiksambhe.eidiko@gmail.com
+      password: qtfaqqivvkvkffjt
+      protocol: imaps
+      ssl-enable: true
+
+#      ${APP_PASSWORD}

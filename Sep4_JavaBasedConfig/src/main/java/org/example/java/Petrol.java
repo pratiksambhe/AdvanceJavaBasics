@@ -1,4 +1,9 @@
 package org.example.java;
 
-public class Petrol {
+import org.example.java.Engine;
+
+public class Petrol implements Engine {
+    public void engineType(){
+        System.out.println("Petrol");
+    }
 }

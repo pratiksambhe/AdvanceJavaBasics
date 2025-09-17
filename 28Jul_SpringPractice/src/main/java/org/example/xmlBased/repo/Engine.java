@@ -1,4 +1,4 @@
-package org.example.JavaBased.repo;
+package org.example.xmlBased.repo;
 
 public interface Engine {
     public void info();

@@ -1,4 +1,6 @@
 package org.example.java;
 
-public class engineType {
+public interface Engine {
+    public abstract void engineType();
+
 }

@@ -1,4 +1,10 @@
 package org.example.annotationBased.entity;
 
-public class Plant {
+import org.springframework.stereotype.Component;
+
+@Component
+public class Plant implements Organism{
+    public void infoOrganism(){
+        System.out.println("This is Plant");
+    }
 }

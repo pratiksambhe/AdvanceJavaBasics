@@ -5,58 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d259c30-1107-4ef5-a814-332c0739e52a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/org/example/components/HDFC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/org/example/components/RBI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/org/example/components/SBI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/org/example/repo/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/BeanlifeCycle/component/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/BeanlifeCycle/component/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/BeanlifeCycle/component/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/BeanlifeCycle/configuration/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/BeanlifeCycle/repo/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/annotationbased/byclassconfig/components/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/annotationbased/byclassconfig/components/Capacity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/annotationbased/byclassconfig/components/XlCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/annotationbased/byclassconfig/configuration/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/annotationbased/byclassconfig/repo/Vehical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/annotationbased/byxml/components/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/annotationbased/byxml/components/Capacity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/annotationbased/byxml/components/XlCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/annotationbased/byxml/configuration/Config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/annotationbased/byxml/repo/Vehical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/javabased/components/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/javabased/components/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/javabased/components/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/javabased/configuration/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/javabased/repo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/xmlbased/components/Electric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/xmlbased/components/PetrolEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/xmlbased/components/Vehical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/java/org/example/xmlbased/repo/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/resources/Config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/main/resources/SpringXmlConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringPractice2_Jul24/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/components/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/components/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/components/Screen2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/configuration/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/repo/Devices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_MVC_Jul25/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_MVC_Jul25/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_MVC_Jul25/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_MVC_Jul25/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_MVC_Jul25/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring_MVC_Jul25/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "pratiksambhe04"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pratiksambhe04/Project2.git",
+    "accountId": "35c8e8a4-ca51-4b38-8dca-bb7ad476045b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>

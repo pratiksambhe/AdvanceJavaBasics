@@ -1,6 +1,6 @@
-package org.example.JavaBased.components;
+package org.example.xmlBased.components;
 
-import org.example.JavaBased.repo.Engine;
+import org.example.xmlBased.repo.Engine;
 
 public class Petrol implements Engine {
     public void info(){

@@ -1,4 +1,9 @@
 package org.example.javabased.entity;
 
-public class Petrol {
+import org.example.javabased.repo.Engine;
+
+public class Petrol implements Engine {
+    public void engineType(){
+        System.out.println("Petrol");
+    }
 }
