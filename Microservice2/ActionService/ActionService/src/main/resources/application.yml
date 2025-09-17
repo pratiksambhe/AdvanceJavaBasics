@@ -1,0 +1,21 @@
+server:
+  port: 8089
+
+spring:
+  application:
+    name: QueryService
+
+  datasource:
+    url: jdbc:oracle:thin:@localhost:1521:xe
+    username: Eidiko3
+    password: sarasu10
+    driver-class-name: oracle.jdbc.OracleDriver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8762/eureka/
