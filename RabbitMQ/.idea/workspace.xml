@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9d87a33-b7a9-44c0-a709-7aae9917908f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../24July_Practice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24July_Practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24July_Practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24July_Practice/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24July_Practice/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdvanceJavaBasics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AllTypeOfCongigurations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AllTypeOfCongigurations/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AllTypeOfCongigurations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AllTypeOfCongigurations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AllTypeOfCongigurations/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AllTypeOfCongigurations/src/main/resources/Config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AllTypeOfCongigurations/src/main/resources/Config1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aug18_basic/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aug18_basic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aug18_basic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aug18_basic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aug18_basic/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aug18_basic/src/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aug7_JacksonPackage/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aug7_JacksonPackage/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aug7_JacksonPackage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aug7_JacksonPackage/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aug7_JacksonPackage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aug7_JacksonPackage/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/.idea/EmailProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/AdvanceJavaBasics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/src/main/java/com/example/EmailProject/EmailProjectApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/src/main/java/com/example/EmailProject/configuration/ConfigMailReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/src/main/java/com/example/EmailProject/configuration/MultiThreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/src/main/java/com/example/EmailProject/controller/EmailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/src/main/java/com/example/EmailProject/dto/MailDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/src/main/java/com/example/EmailProject/exceptionHandeling/EmailReadingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/src/main/java/com/example/EmailProject/exceptionHandeling/EmailSendingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/src/main/java/com/example/EmailProject/exceptionHandeling/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/src/main/java/com/example/EmailProject/service/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/src/main/java/com/example/EmailProject/service/HnaldeMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/src/test/java/com/example/EmailProject/EmailProjectApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jul28_Practice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jul28_Practice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jul28_Practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jul28_Practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jul28_Practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jul28_Practice/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jul28_Practice/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Microservice2/.idea/Microservice2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice/src/javaBasicCoding/Coding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeSecurity/.idea/PracticeSecurity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Oct_06/Pratice_Oct_06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Oct_06/src/basic/casting/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Oct_06/src/basic/casting/implicitAndExplicit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Oct_06/src/basic/methodRefrenceing2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Oct_06/src/basic/methodRefrencing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/src/Concurrent/ConcurrentThings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/src/Concurrent/Future.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/src/July23/practice/AdvanceThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/src/July23/practice/FunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/src/July23/practice/MethodRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/src/July23/practice/SerializationDeserialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/src/July23/practice/SimpleThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/src/July23/practice/StreamAPIs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/src/July23/practice/UpcastingDowncasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/src/July23/practice/WideingNarrowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/src/Serialization/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/src/Threads/CallableAdvance2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project/src/Threads/ExcecutorMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/StreamAPI/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/Thread/simpleThread/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/Thread/simpleThread/Advance/CallableThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/Thread/simpleThread/Advance/ThreadLocalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/TypeCasting/UpcastingDowncasting/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/beanLifeCycle/Diesel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/beanLifeCycle/Petrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/configurations/AnnotationBased/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/configurations/AnnotationBased/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/configurations/AnnotationBased/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/configurations/AnnotationBased/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/configurations/AnnotationBased/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/configurations/javaBased/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/configurations/javaBased/Diesel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/configurations/javaBased/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/configurations/javaBased/EngineType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/configurations/javaBased/Petrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/configurations/xmlBased/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/configurations/xmlBased/MouseType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/configurations/xmlBased/Wired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/configurations/xmlBased/Wirless.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/lambdaFunc/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/methodReferencing/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/main/java/org/example/serialization/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickRevision/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/RabbitMQ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/src/main/java/com/example/RabbitMQ/consumer/MessageConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/src/main/java/com/example/RabbitMQ/controller/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/src/main/java/com/example/RabbitMQ/producer/MessageProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RabbitMQ/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecurityDemo/.idea/SecurityDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SecurityDemo2/.idea/SecurityDemo2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/src/main/resources/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/org/example/configuration/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPractice_Jul24/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPractice_Jul24/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringPractice_Jul24/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaBasic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24July_Practice/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../24July_Practice/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24July_Practice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../24July_Practice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24July_Practice/src/Casting/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../24July_Practice/src/Casting/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24July_Practice/src/LambdaFunction/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../24July_Practice/src/LambdaFunction/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24July_Practice/src/LambdaFunction/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../24July_Practice/src/LambdaFunction/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24July_Practice/src/MethodReferencing/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../24July_Practice/src/MethodReferencing/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24July_Practice/src/MethodReferencing/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../24July_Practice/src/MethodReferencing/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24July_Practice/src/Serialization/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../24July_Practice/src/Serialization/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24July_Practice/src/Stream/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../24July_Practice/src/Stream/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24July_Practice/src/Thread/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../24July_Practice/src/Thread/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24July_Practice/src/Thread/Advance/Sigle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../24July_Practice/src/Thread/Advance/Sigle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24July_Practice/src/Thread/Runnable/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../24July_Practice/src/Thread/Runnable/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/JavaBased/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/JavaBased/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/JavaBased/components/Petrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/JavaBased/components/Petrol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/JavaBased/components/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/JavaBased/components/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/JavaBased/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/JavaBased/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/JavaBased/repo/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/JavaBased/repo/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/annotationBased/Config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/annotationBased/Config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/annotationBased/components/Diesel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/annotationBased/components/Diesel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/annotationBased/components/Petrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/annotationBased/components/Petrol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/annotationBased/components/Vehical.java" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/annotationBased/components/Vehical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/annotationBased/repo/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/annotationBased/repo/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/xmlBased/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/xmlBased/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/xmlBased/components/Diesel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/xmlBased/components/Diesel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/xmlBased/components/Petrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/xmlBased/components/Petrol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/xmlBased/components/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/xmlBased/components/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/xmlBased/repo/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/java/org/example/xmlBased/repo/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/resources/Config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/resources/Config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/resources/Config1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../28Jul_SpringPractice/src/main/resources/Config1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllTypeOfCongigurations/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../AllTypeOfCongigurations/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllTypeOfCongigurations/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AllTypeOfCongigurations/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllTypeOfCongigurations/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AllTypeOfCongigurations/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aug18_basic/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Aug18_basic/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aug18_basic/src/StreamPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aug18_basic/src/StreamPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmailProject/EmailProject/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../EmailProject/EmailProject/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jul28_Practice/src/BasicCodeing/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jul28_Practice/src/BasicCodeing/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jul28_Practice/src/BasicCodeing/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jul28_Practice/src/BasicCodeing/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jul28_Practice/src/BasicCodeing/ShiftArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jul28_Practice/src/BasicCodeing/ShiftArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jul28_Practice/src/BasicCodeing/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jul28_Practice/src/BasicCodeing/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jul28_Practice/src/Serialization/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jul28_Practice/src/Serialization/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jul28_Practice/src/Stream/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jul28_Practice/src/Stream/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jul28_Practice/src/Thread/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jul28_Practice/src/Thread/a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jul28_Practice/src/casting/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jul28_Practice/src/casting/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jul28_Practice/src/casting/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jul28_Practice/src/casting/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jul28_Practice/src/lambdaAndFunctionalInterface/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jul28_Practice/src/lambdaAndFunctionalInterface/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jul28_Practice/src/lambdaAndFunctionalInterface/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jul28_Practice/src/lambdaAndFunctionalInterface/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jul28_Practice/src/methodRef/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jul28_Practice/src/methodRef/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jul28_Practice/src/methodRef/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Jul28_Practice/src/methodRef/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservice2/ActionService/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservice2/ActionService/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservice2/ActionService/ActionService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservice2/ActionService/ActionService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservice2/ActionService/ActionService/src/main/java/com/example/ActionService/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservice2/ActionService/ActionService/src/main/java/com/example/ActionService/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservice2/QueryService/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservice2/QueryService/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservice2/ServerApplication/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Microservice2/ServerApplication/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep1_Revision/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep1_Revision/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep1_Revision/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep1_Revision/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/annotationBased/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/annotationBased/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/annotationBased/entity/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/annotationBased/entity/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/annotationBased/entity/Org.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/annotationBased/entity/Org.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/annotationBased/entity/Organism.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/annotationBased/entity/Organism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/annotationBased/entity/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/annotationBased/entity/Plant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/configuration/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/configuration/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/entity/Petrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/entity/Petrol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/entity/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/entity/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/repo/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep1_Revision/src/main/java/org/example/repo/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/annotation/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/annotation/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/annotation/entity/Diesel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/annotation/entity/Diesel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/annotation/entity/Petrol1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/annotation/entity/Petrol1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/annotation/entity/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/annotation/entity/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/annotation/repo/Engine1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/annotation/repo/Engine1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/java/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/java/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/java/Diesel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/java/Diesel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/java/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/java/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/java/Petrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/java/Petrol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/java/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/java/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/javabased/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/javabased/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/javabased/entity/Diesel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/javabased/entity/Diesel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/javabased/entity/Petrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/javabased/entity/Petrol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/javabased/entity/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/javabased/entity/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/javabased/repo/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/javabased/repo/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/lambda/func.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/lambda/func.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/lambda/func2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/lambda/func2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/lambda/func3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/lambda/func3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/serialization/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/serialization/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/serialization/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/serialization/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/stream/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/stream/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/thread/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/thread/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/xml/Diesel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/xml/Diesel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/xml/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/xml/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/xml/Petrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/xml/Petrol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/xml/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Sep4_JavaBasedConfig/src/main/java/org/example/xml/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringPractice_Jul24/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringPractice_Jul24/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_MVC_Jul25/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring_MVC_Jul25/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pratiksambhe&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pratiksambhe/AdvanceJavaBasics.git&quot;,
+    &quot;accountId&quot;: &quot;35c8e8a4-ca51-4b38-8dca-bb7ad476045b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="33ll7FngJmLNGnjSPnYzA7soUBX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.RabbitMqApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Rebasing main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sreenivas Bandaru/IdeaProjects/RabbitMQ&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9d87a33-b7a9-44c0-a709-7aae9917908f" name="Changes" comment="" />
+      <created>1759899372744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759899372744</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+         http://www.springframework.org/schema/beans
+         http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Bean Definition -->
+    <bean id="wr1" class="org.example.configurations.xmlBased.Wired"></bean>
+
+    <bean id="wrl1" class="org.example.configurations.xmlBased.Wirless"></bean>
+    <bean id="mt" class="org.example.configurations.xmlBased.MouseType">
+        <property name="mouse" ref="wr1"></property>
+    </bean>
+</beans>
