@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Singleton Bean (default scope) -->
+    <bean id="diesel" class="com.example.AUg5_SpringProject.configuration.xmlBased.entity.Diesel2" />
+
+    <!-- Prototype Bean -->
+    <bean id="petrol" class="com.example.AUg5_SpringProject.configuration.xmlBased.entity.Petrol2"/>
+
+    <bean id="vehical" class="com.example.AUg5_SpringProject.configuration.xmlBased.entity.Vehicle3">
+        <property name="engine2" ref="diesel"></property>
+    </bean>
+</beans>
